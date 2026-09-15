@@ -23,12 +23,12 @@ The method is developed around a physical data pipeline that retains observable 
 
 ## Generated Video Examples
 
-| Setting | Example | Description |
-| --- | --- | --- |
-| TI2V | [General-domain generation](assets/examples/ti2v-general.mp4) | A representative general-domain video generated from image and text conditions. |
-| TI2V | [Physical-world generation](assets/examples/ti2v-physical.mp4) | A ball moves along the geometry of a wooden track. |
-| TI2V | [Embodied-scene generation](assets/examples/ti2v-embodied.mp4) | A representative generation from an embodied scenario. |
-| IA2V | [Robot rollout](assets/examples/ia2v-rollout.mp4) | A robot-view sequence generated from an initial image and action trajectory. |
+| Setting | Domain | Example | Description |
+| --- | --- | --- | --- |
+| TI2V | General | [View video](assets/examples/ti2v-general.mp4) | A masked traveler walks through a narrow brick-lined street. |
+| TI2V | Physical | [View video](assets/examples/ti2v-physical.mp4) | A blue marble rolls down an inclined track under gravity. |
+| TI2V | Embodied | [View video](assets/examples/ti2v-embodied.mp4) | The robotic arm's right hand transfers a black mouse onto the black tabletop. |
+| IA2V | Embodied | [View video](assets/examples/ia2v-rollout.mp4) | Two robotic arms manipulate items in and around a shopping cart. |
 
 ## TODO
 
