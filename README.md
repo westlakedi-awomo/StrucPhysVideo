@@ -1,8 +1,6 @@
 # Awomo-Video: Learning Physical Dynamics from Structured Captions and Robot Actions
 
-[Project Page](https://westlakedi-awomo.github.io/Awomo-WM-Page/) · [Technical Report](https://github.com/westlake-autolab/Awomo-WM-Technical-Report)
-
-> **Release status:** Representative generated videos are available below. Inference code, training code, and model weights will be released in future updates.
+<img src="assets/awomo-logo.png" alt="Awomo logo" height="22"> &nbsp; [Project Page](https://westlakedi-awomo.github.io/Awomo-WM-Page/) · [Technical Report](https://github.com/westlake-autolab/Awomo-WM-Technical-Report)
 
 ## Overview
 
