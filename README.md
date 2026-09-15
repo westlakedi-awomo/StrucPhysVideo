@@ -25,7 +25,7 @@ The method is developed around a physical data pipeline that retains observable 
 
 | Setting | Domain | Preview | Description |
 | --- | --- | --- | --- |
-| TI2V | General | <a href="assets/examples/ti2v-general.mp4"><img src="assets/examples/ti2v-general.gif" width="320" alt="General-domain TI2V preview"></a> | A masked traveler walks through a narrow brick-lined street. |
+| TI2V | General | <a href="assets/examples/ti2v-general.mp4"><img src="assets/examples/ti2v-general.gif" width="320" alt="General-domain TI2V preview"></a> | An aerial camera follows a road beside a vivid alpine lake. |
 | TI2V | Physical | <a href="assets/examples/ti2v-physical.mp4"><img src="assets/examples/ti2v-physical.gif" width="320" alt="Physical-world TI2V preview"></a> | A blue marble rolls down an inclined track under gravity. |
 | TI2V | Embodied | <a href="assets/examples/ti2v-embodied.mp4"><img src="assets/examples/ti2v-embodied.gif" width="320" alt="Embodied TI2V preview"></a> | The robotic arm's right hand transfers a black mouse onto the black tabletop. |
 | IA2V | Embodied | <a href="assets/examples/ia2v-rollout.mp4"><img src="assets/examples/ia2v-rollout.gif" width="320" alt="Embodied IA2V preview"></a> | Two robotic arms manipulate items in and around a shopping cart. |
