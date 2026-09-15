@@ -1,6 +1,4 @@
-# Awomo-Video
-
-**Physically grounded video generation with text, images, and actions**
+# Awomo-Video: Learning Physical Dynamics from Structured Captions and Robot Actions
 
 [Project Page](https://westlakedi-awomo.github.io/Awomo-WM-Page/) · [Technical Report](https://github.com/westlake-autolab/Awomo-WM-Technical-Report)
 
@@ -31,4 +29,3 @@ The method is developed around a physical data pipeline that retains observable 
 - [ ] Release Awomo-Video-IA2V training code.
 
 Please stay tuned for future updates.
-
